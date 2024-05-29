@@ -1,7 +1,7 @@
-# Employee-Payroll-Tracker
+# Employee Payroll Tracker
 
 ## Description
-This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. It has a clean and polished, responsive user interface that adapts to multiple screen sizes. The user can click 'Add Employees' and will be prompted to enter an employee's first name, last name, and salary. If the user clicks 'continue' they will be able to continue adding employee data. If the user clicks 'cancel' they are presented with a list of the employees in alphabetical order. When the user opens the developer console, they will be able to view a list of employees as originally entered, the average salary for all employees, and the name of a random employee.
 
 ## Original User Story and Acceptace Criteria
 
@@ -25,7 +25,6 @@ WHEN I choose to continue
 THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
-Mock-Up
 ```
 
 ### Mock-up
@@ -35,15 +34,23 @@ The following image shows the web application's appearance and functionality:
 ![The employee payroll tracker - part 1](../Employee-Payroll-Tracker/Assets/03-javascript-homework-console-demo.png)
 ![The employee payroll tracker - part 2 ](../Employee-Payroll-Tracker/Assets/03-javascript-homework-demo.gif)
 
-## Resulting Outcome
+## Link to Deployed application
 
-### Link to Repository
-
-* https://github.com/bldambtn/Employee-Payroll-Tracker
-
-### Final Image
+* https://bldambtn.github.io/Employee-Payroll-Tracker/ 
 
 ## Credits
+
+### Collaborator(s): 
+
+* Travis Haynie, https://github.com/TravisHaynie, helped with code-reivew and introducting the 'prompt' for JavaScript.
+
+### Research Sources:
+
+* W3Schools. (accessed May 27, 2024). Window Prompt(). W3Schools. https://www.w3schools.com/jsref/met_win_prompt.asp 
+
+* W3Schools. (accessed May 27, 2024). JavaScript Math Object. W3Schools. https://www.w3schools.com/js/js_math.asp 
+
+* W3Schools. (accessed May 27, 2024). JavaScript Random. W3Schools. https://www.w3schools.com/js/js_random.asp
 
 ### Source Code
 
