@@ -31,8 +31,8 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 The following image shows the web application's appearance and functionality:
 
-![The employee payroll tracker - part 1](../Employee-Payroll-Tracker/Assets/03-javascript-homework-console-demo.png)
-![The employee payroll tracker - part 2 ](../Employee-Payroll-Tracker/Assets/03-javascript-homework-demo.gif)
+![The employee payroll tracker - part 1](./Assets/03-javascript-homework-console-demo.png)
+![The employee payroll tracker - part 2 ](./Assets/03-javascript-homework-demo.gif)
 
 ## Link to Deployed application
 
